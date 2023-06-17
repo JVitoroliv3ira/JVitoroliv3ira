@@ -7,10 +7,13 @@
 No meu perfil do GitHub, você encontrará projetos que demonstrem minha experiência e habilidades. Estou constantemente trabalhando em projetos pessoais para aprimorar minhas habilidades e compartilhar conhecimento com a comunidade.
 
 📊 Estatísticas do meu GitHub:
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JVitoroliv3ira&show_icons=true&count_private=true&theme=radical)
 
-- Linguagens mais utilizadas:
+Linguagens mais utilizadas:
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JVitoroliv3ira&layout=compact&hide=html,css&theme=radical)
 
-- Contribuições:
+Contribuições:
+
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=JVitoroliv3ira&theme=radical)
