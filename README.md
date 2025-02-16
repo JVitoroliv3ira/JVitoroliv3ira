@@ -1,23 +1,25 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Olá! 👋 Bem-vindo ao meu GitHub  
 
-Meu nome é João Vitor de Oliveira Santos, e sou um desenvolvedor fullstack apaixonado por tecnologia. Atualmente, estou localizado na cidade de Natal, no Rio Grande do Norte.
+Sou **João Vitor de Oliveira Santos**, desenvolvedor **fullstack** com experiência em **Angular** no front-end e **Java, .NET ou Python** no back-end.  
 
-## Sobre Mim
+📍 **Natal, RN**  
 
-- 💼 Atuo como desenvolvedor fullstack, trabalhando com diversas tecnologias, incluindo Java, Python, Go e Angular.
-- 🌱 Estou constantemente aprendendo e buscando novos desafios para aprimorar minhas habilidades.
-- 🚀 Amo desenvolver soluções inovadoras e eficientes que fazem a diferença.
+## 🚀 Sobre Mim  
+💻 **Desenvolvedor Fullstack**, focado em criar soluções eficientes e escaláveis.  
+📚 Sempre aprendendo e explorando novas tecnologias.  
 
-## Linguagens mais utilizadas:
+## 🛠️ Tecnologias  
+🔹 **Front-end:** Angular | TypeScript  
+🔹 **Back-end:** Java | .NET | Python  
+🔹 **Banco de Dados:** PostgreSQL | MongoDB  
+🔹 **Outros:** Docker | Kubernetes | AWS  
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JVitoroliv3ira&layout=compact&hide=html,css&theme=radical)
+## 📊 Estatísticas  
 
-## Como Entrar em Contato
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JVitoroliv3ira&layout=compact&hide=html,css&theme=radical)  
 
-Vamos nos conectar! Fique à vontade para entrar em contato comigo:
+## 📬 Contato  
+📧 **Email:** [jvitor2000@outlook.com](mailto:jvitor2000@outlook.com)  
+💼 **LinkedIn:** [João Vitor de Oliveira Santos](https://www.linkedin.com/in/joao-oliveira-96194124b/)  
 
-- 📧 Email: jvitor2000@outlook.com
-- 💼 LinkedIn: [João Vitor de Oliveira Santos](https://www.linkedin.com/in/jo%C3%A3o-oliveira-96194124b/)
-- 🐦 Twitter: [@jv11_dev](https://twitter.com/jv11_dev)
-
-
+Sinta-se à vontade para explorar meus projetos! 🚀  
