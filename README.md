@@ -9,7 +9,7 @@ Sou **João Vitor de Oliveira Santos**, desenvolvedor **fullstack** com experiê
 📚 Sempre aprendendo e explorando novas tecnologias.  
 
 ## 🛠️ Tecnologias  
-🔹 **Front-end:** Angular | TypeScript  
+🔹 **Front-end:** Angular | React  
 🔹 **Back-end:** Spring Boot | .NET | Python  
 🔹 **Banco de Dados:** PostgreSQL | MongoDB  
 🔹 **Outros:** Docker | Kubernetes
