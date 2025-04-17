@@ -20,6 +20,6 @@ Sou **João Vitor de Oliveira Santos**, desenvolvedor **fullstack** com experiê
 
 ## 📬 Contato  
 📧 **Email:** [jvitor2000@outlook.com](mailto:jvitor2000@outlook.com)  
-💼 **LinkedIn:** [João Vitor de Oliveira Santos](https://www.linkedin.com/in/joao-oliveira-96194124b/)  
+💼 **LinkedIn:** [João Vitor de Oliveira Santos](www.linkedin.com/in/jvoliveira-dev)  
 
 Sinta-se à vontade para explorar meus projetos! 🚀  
