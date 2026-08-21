@@ -1,5 +1,3 @@
-# joao@github:~$
-
 ```txt
 joao@github:~$ fastfetch
 
